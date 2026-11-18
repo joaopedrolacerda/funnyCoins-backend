@@ -1,11 +1,6 @@
-# O que o `railway up` não envia. A imagem só usa web/ e rust/ (ver .dockerignore).
+# O que o `railway up` não envia. A imagem só usa rust/ (ver .dockerignore).
 .DS_Store
 .env
 .env.*
 rust/target/
 rust/.cargo/
-web/node_modules/
-web/dist/
-funnycoins/
-funnycoins.xcodeproj/
-MyAppTests/

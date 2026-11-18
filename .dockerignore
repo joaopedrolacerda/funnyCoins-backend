@@ -1,8 +1,5 @@
-# Só web/ e rust/ entram na imagem.
+# Só rust/ entra na imagem.
 *
-!web/
 !rust/
-web/node_modules
-web/dist
 rust/target
 rust/.cargo

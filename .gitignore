@@ -1,15 +1,5 @@
 .DS_Store
-
-# Xcode
-xcuserdata/
-*.xcuserstate
-DerivedData/
-build/
-
-# Rust e site (cada pasta tem o seu .gitignore)
 rust/target/
-web/node_modules/
-web/dist/
 
 # Variáveis locais
 .env
